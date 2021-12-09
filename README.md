@@ -1,6 +1,3 @@
-Vormir Coin Core integration/staging tree
-=====================================
-
 
 What is Vormir Coin?
 ----------------
